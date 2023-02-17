@@ -4,6 +4,7 @@ Learn about various software testing methodologies and why it is important to te
 - [Wikipedia - Software testing](https://en.wikipedia.org/wiki/Software_testing)
 - [Software Testing Methodologies](https://smartbear.com/learn/automated-testing/software-testing-methodologies/)
 - [Learn The Methods & Tools](https://www.inflectra.com/ideas/topic/testing-methodologies.aspx)
+- [Testing Automation University](https://testautomationu.applitools.com/)
 
 ## How does software testing work?
 
